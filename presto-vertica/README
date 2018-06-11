@@ -1,0 +1,2 @@
+Requires a version of the vertica jdbc driver installed in a maven repo (local, company wide, etc)
+If the driver version is not 9.1.0 then edit the pom.xml file and insert the correct version
